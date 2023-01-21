@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansar Ahmad</h1>
 <h3 align="center">A passionate Computer Science Student from Pakistan</h3>
-<img align="right" alt="code code code..." width="400" src="![image](https://user-images.githubusercontent.com/117258516/213844578-24f5c184-c59a-42c0-b8c3-7aab52d9732f.png)
-">
+<img align="right" alt="code code code..." width="400" src="![image](https://user-images.githubusercontent.com/117258516/213870288-c5870c09-1e26-425e-82e6-3abfc917fcc9.png)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadansar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadansar" /> </p>
 
